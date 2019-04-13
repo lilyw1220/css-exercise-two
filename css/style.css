@@ -54,7 +54,7 @@ article {
 }
 
 body {
-  font-size: 16px;
+  font-size: 1em;
 }
 
 h1{
@@ -65,6 +65,7 @@ h1{
 
 h3{
   line-height: 2em;
+  font-size: 1.5em;
 }
 
 p{
@@ -75,6 +76,12 @@ p{
 a{
   text-decoration: none;
   text-transform: uppercase;
+}
+
+figcaption{
+  font-size: 1em;
+  line-height: 2em;
+
 }
 
 a:link { color:#FFFFFF; } /* unvisited */
