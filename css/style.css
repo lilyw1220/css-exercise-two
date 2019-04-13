@@ -60,7 +60,7 @@ body {
 h1{
   font-size: 2em; /* 32px */
   font-weight: bold;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 h3{
