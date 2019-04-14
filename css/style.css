@@ -64,7 +64,7 @@ h1{
 }
 
 h3{
-  line-height: 2em;
+  line-height: 1.3em;
   font-size: 1.5em;
 }
 
@@ -85,6 +85,6 @@ figcaption{
 }
 
 a:link { color:#FFFFFF; } /* unvisited */
-a:visited { color:#0070BA; } /* visited */
+a:visited { color:#41FCFF; } /* visited */
 a:hover { color:#E8EBC0; } /* mouse over */
 a:active { color:#0070BD; } /* selected */
